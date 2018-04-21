@@ -1,42 +1,59 @@
-# warsawjs-workshop-19-portfolio ([npm](https://www.npmjs.com/package/warsawjs-workshop-19-portfolio))
+# warsawjs-workshop-19-portfolio 
 
-[![npm version](https://badge.fury.io/js/warsawjs-workshop-19-portfolio.svg)](https://badge.fury.io/js/warsawjs-workshop-19-portfolio)
-![](https://img.shields.io/npm/dt/warsawjs-workshop-19-portfolio.svg)
-[![Travis](https://img.shields.io/travis/piecioshka/warsawjs-workshop-19-portfolio.svg?maxAge=2592000)](https://travis-ci.org/piecioshka/warsawjs-workshop-19-portfolio)
+> Aplikacja stworzona na potrzeby WarsawJS Workshop #19
 
-> TODO
+![](http://warsawjs.com/assets/images/logo/logo-transparent-240x240.png)
 
-## Install
+---
 
-```
-$ npm install -g warsawjs-workshop-19-portfolio
-```
+## :rocket: Deployment :rocket:
 
-## Usage
+1. GitHub Pages
+    - Settings
+    - Przeskroluj do sekcji `GitHub Pages`
+    - `Source` wybierz brancha `master`
 
-```javascript
-```
+## :bulb: O czym opowiedzieć? :bulb:
 
-## CLI
+Slajdy dostępne pod tym adresem: https://github.com/piecioshka/slides-warsawjs-workshop-19-front-end-beginner
 
-```
-```
+## Zakres funkcjonalności projektu
 
-## Unit tests
+> Typ projektu: landing page
 
-Use Jasmine to setup unit test:
+- [ ] Baner
+    - https://picsum.photos/
+- [ ] Kontakt
+- [ ] Menu
+    - [ ] Skrolowanie
+- [ ] Paralax
+- [ ] Prezentacja opisu zdjęć https://codepen.io/joshnh/pen/paxbE
+- [ ] Karuzela
 
-```
-$ npm test
-```
+## Krok po kroku
 
-## Code coverage
+### Etap 0. Beforek :beer:
 
-Use Istanbul to get code coverage ratio:
+1. Stworzenie workspace-u
+2. Stworzenie katalogu projektu
+3. Stworzenie katalogu `src`
+4. Stworzenie plik `index.html`
+5. 
 
-```
-$ npm run coverage
-```
+### Etap 1: Scaffold 📁
+
+... 
+
+### Etap 2: Kafelki
+
+- https://codepen.io/joshnh/pen/paxbE
+
+## Źródła, czyli tam gdzie warto zajrzeć
+
+- https://experiments.withgoogle.com/chrome
+- https://codepen.io/piecioshka/pens/loved/10/
+- https://codepen.io/eva_trostlos/pen/akQoLN
+- https://codepen.io/aakashrodrigues/pen/Gfhjw
 
 ## License
 
