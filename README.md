@@ -6,6 +6,10 @@
 
 ---
 
+## ✨ Demo ✨
+
+https://piecioshka.github.io/warsawjs-workshop-19-portfolio/
+
 ## :rocket: Deployment :rocket:
 
 1. GitHub Pages
@@ -36,8 +40,8 @@ Slajdy dostępne pod tym adresem: https://github.com/piecioshka/slides-warsawjs-
 
 1. Stworzenie workspace-u
 2. Stworzenie katalogu projektu
-3. Stworzenie katalogu `src`
-4. Stworzenie plik `index.html`
+3. Stworzenie katalogu `app`
+4. Stworzenie plik `app/index.html`
 5. 
 
 ### Etap 1: Scaffold 📁
