@@ -14,7 +14,7 @@ https://piecioshka.github.io/warsawjs-workshop-19-portfolio/app/
 
 ### GitHub Pages
 
-1. Wejdź do `Settings`
+1. Wejdź do `Settings` (projektu)
 2. Przeskroluj do sekcji `GitHub Pages`
 3. `Source` wybierz brancha `master`
     - pojawi się link do strony
