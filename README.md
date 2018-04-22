@@ -124,7 +124,7 @@ Slajdy dostępne pod tym adresem: https://github.com/piecioshka/slides-warsawjs-
 0. Stworzyć w pliku JavaScript zmienną, która będzie przechowywała referencję do formularza
 0. Podpiąć się pod zdarzenia `submit` na formularzu
 0. Wyłączyć domyślne zachowanie formularza w ciele handlera zdarzenia `submit` za pomocą funkcji `evt.preventDefault()`
-0. Stworzyć wewnątrz handler zmienną przechowującą dane wpisane w formularzu
+0. Stworzyć wewnątrz handlera zmienną przechowującą dane wpisane w formularzu
 
     Wykorzystać do tego `FormData`
 
