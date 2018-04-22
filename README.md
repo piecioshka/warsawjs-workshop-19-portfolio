@@ -70,7 +70,7 @@ Slajdy dostępne pod tym adresem: https://github.com/piecioshka/slides-warsawjs-
 0. Wycentrować text w banerze za pomocą `Flexbox`
 
     ```css
-    .banner {
+    #banner {
         // ...
         display: flex;
         justify-content: center;
