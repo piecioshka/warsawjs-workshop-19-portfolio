@@ -61,9 +61,9 @@ Slajdy dostępne pod tym adresem: https://github.com/piecioshka/slides-warsawjs-
 0. Stworzyć plik `app/styles/main.css`
 0. Osadzić plik CSS w HTMLu za pomocą `<link rel="stylesheet" href="styles/main.css"/>`
 0. Zresetować domyślne style (reguła `margin`) dla przeglądarki dla `body, h1, p`
-0. Zdefiniować szerokość strony na `720px` za pomocą reguły `width`
+0. Zdefiniować szerokość kontenera z id `page` na `720px` za pomocą reguły `width` dla kontenera z id `page`
 0. Wycentrować kontener `#page` definiując automatyczne marginesy `margin-left` i `margin-right`
-0. Zdefiniować wysokość dla kontenera `.banner`
+0. Zdefiniować wysokość dla kontenera `#banner` np. `300px`
 0. Ustawić tło za pomocą reguły `background-image`
 0. Wyłączyć powtarzanie
 0. Wycentrować tło
