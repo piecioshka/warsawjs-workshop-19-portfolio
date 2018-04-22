@@ -24,6 +24,22 @@ Link nie wyświetla Twojego projektu?
 - spr. czy masz plik `index.html` w katalogu `app`
 - dodaj plik `.nojekyll` do katalogu głównego projektu
 
+### `GitHub Pages` (Omijamy `app/` w URLu)
+
+1. Instalacja wymaganego oprogramowania
+
+    ```
+    $ npm install -g gh-pages
+    ```
+
+2. Wrzucenie zawartości katalogu `app/` do brancha `gh-pages`
+    
+    ```
+    $ gh-pages -d app/
+    ```
+
+3. Zmiana brancha źródłowego z `master` na `gh-pages` w interfejsie GitHuba
+
 ## :bulb: O czym opowiedzieć? :bulb:
 
 Slajdy dostępne pod tym adresem: https://github.com/piecioshka/slides-warsawjs-workshop-19-front-end-beginner
@@ -114,14 +130,18 @@ Slajdy dostępne pod tym adresem: https://github.com/piecioshka/slides-warsawjs-
 0. Dodać pod nagłówkiem formularz za pomocą znacznika `form`
 0. Stworzyć `input` typu `email` z atrybutem `name` o treści `email`
 0. Dodatkowe: Ustawić atrybut `required`
-0. Stworzyć `label` z zawartością Twój email
+0. Stworzyć `label` z zawartością `Twój email`
 0. Stworzyć `input` typu `submit` z atrybutem `value` o treści `Wyślij`
 0. Stworzyć plik `app/scripts/main.js`
 0. Osadzić plik JavaScript w HTMLu za pomocą `<script src="scripts/main.js"></script>`
     
     UWAGA: osadzić ten kod przed zamknięciem znacznika `body`
     
-0. Stworzyć w pliku JavaScript zmienną, która będzie przechowywała referencję do formularza
+0. Stworzyć w pliku JavaScript zmienną, która będzie przechowywała referencję
+    do formularza
+
+    UWAGA: korzystamy z funkcji `document.querySelector`
+    
 0. Podpiąć się pod zdarzenia `submit` na formularzu
 0. Wyłączyć domyślne zachowanie formularza w ciele handlera zdarzenia `submit`
     za pomocą funkcji `evt.preventDefault()`
