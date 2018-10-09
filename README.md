@@ -2,13 +2,13 @@
 
 > Aplikacja stworzona na potrzeby WarsawJS Workshop #19
 
-![](http://warsawjs.com/assets/images/logo/logo-transparent-240x240.png)
+![](app/images/logo-warsawjs-transparent-240x240.png)
 
 ---
 
 ## ✨ Demo ✨
 
-https://piecioshka.github.io/warsawjs-workshop-19-portfolio/app/
+<https://piecioshka.github.io/warsawjs-workshop-19-portfolio/app/>
 
 ## :rocket: Deployment :rocket:
 
@@ -28,14 +28,14 @@ Link nie wyświetla Twojego projektu?
 
 1. Instalacja wymaganego oprogramowania
 
-    ```
-    $ npm install -g gh-pages
+    ```bash
+    npm install -g gh-pages
     ```
 
 2. Wrzucenie zawartości katalogu `app/` do brancha `gh-pages`
     
-    ```
-    $ gh-pages -d app/
+    ```bash
+    gh-pages -d app/
     ```
 
 3. Zmiana brancha źródłowego z `master` na `gh-pages` w interfejsie GitHuba
