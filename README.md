@@ -11,7 +11,7 @@ Aplikacja stworzona na potrzeby `WarsawJS Workshop #19`.
 
 ---
 
-## Demo :tada:
+## Demo 🎉
 
 <https://piecioshka.github.io/warsawjs-workshop-19-portfolio/app/>
 
@@ -46,20 +46,20 @@ Link nie wyświetla Twojego projektu?
 
 3. Zmiana brancha źródłowego z `master` na `gh-pages` w interfejsie GitHuba
 
-## Zakres funkcjonalności projektu
+## Features
 
 > Typ projektu: landing page
 
-* [x] Baner
+* :white_check_mark: Baner
     + https://picsum.photos/720/300
-* [x] Galeria zdjęć
+* :white_check_mark: Galeria zdjęć
     + https://picsum.photos/300/300
-* [x] Newsletter
-* [x] Menu
-    + [x] Skrolowanie do sekcji za pomocą hashtaga
-* [ ] Karuzela: Podgląd powiększonych zdjęć
+* :white_check_mark: Newsletter
+* :white_check_mark: Menu
+    + :white_check_mark: Skrolowanie do sekcji za pomocą hashtaga
+* :no_entry: Karuzela: Podgląd powiększonych zdjęć
 
-## Krok po kroku
+## Krok po kroku 👣
 
 ### Etap 0: Beforek
 
