@@ -1,15 +1,6 @@
 # warsawjs-workshop-19-portfolio
 
-Aplikacja stworzona na potrzeby `WarsawJS Workshop #19`.
-
-<img
-    src="https://warsawjs.com/static/images/logos/logo-warsawjs.svg"
-    width="400"
-    height="400"
-    alt=""
-/>
-
----
+⛩️ WarsawJS Workshop #19 — Front-end
 
 ## Demo 🎉
 
