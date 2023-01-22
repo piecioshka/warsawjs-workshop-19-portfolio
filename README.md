@@ -2,7 +2,7 @@
 
 ⛩️ WarsawJS Workshop #19 — Front-end
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/warsawjs-workshop-19-portfolio/app/>
 
