@@ -6,7 +6,7 @@
 
 <https://piecioshka.github.io/warsawjs-workshop-19-portfolio/app/>
 
-## Deployment :rocket:
+## Deployment 🚀
 
 ### GitHub Pages
 
